@@ -13,10 +13,11 @@
 
 ## 🛠️ Teknologi yang Digunakan
 - **Flutter 3.27**
-- **Dart**
 - **Provider (State Management)**
 - **HTTP Package (Untuk Fetch Data)**
-- **Tailwind CSS (Untuk referensi styling dalam mockup Figma)**
+- **Flutter Cache Manager**
+- **Cache Network Image**
+- **Smooth Page Indicator**
 
 ## 📂 Struktur Folder
 ```
